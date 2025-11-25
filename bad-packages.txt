@@ -1,6 +1,5 @@
 Package	Version
 02-echo	= 0.0.7
-cli-truncate = 4.0.0
 @accordproject/concerto-analysis	= 3.24.1
 @accordproject/concerto-linter	= 3.24.1
 @accordproject/concerto-linter-default-ruleset	= 3.24.1
